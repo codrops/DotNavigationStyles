@@ -1,5 +1,5 @@
 /**
- * menu.js v1.0.0
+ * dots.js v1.0.0
  * http://www.codrops.com
  *
  * Licensed under the MIT license.
