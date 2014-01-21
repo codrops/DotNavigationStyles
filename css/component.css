@@ -398,7 +398,7 @@
 	transition: opacity 0.3s ease;
 }
 
-.dotstyle-tooltip li:hover a,
+.no-touch .dotstyle-tooltip li:hover a,
 .dotstyle-tooltip li.current a {
 	z-index: 100;
 	visibility: visible;
@@ -417,7 +417,7 @@
 	z-index: 100;
 }
 
-.dotstyle-tooltip ul:hover li.current a {
+.no-touch .dotstyle-tooltip ul:hover li.current a {
 	opacity: 0.2;
 }
 
